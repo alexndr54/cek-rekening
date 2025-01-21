@@ -45,7 +45,3 @@ API Cek Rekening &amp; E-Wallet Indonesia (Dana,Ovo,Gopay,Sopepay,BCA,BRI,all ba
   Documentation: [https://apidevbizid.apidog.io/](https://apidevbizid.apidog.io/).  
   Telegram: [https://t.me/rekberbizid](https://t.me/rekberbizid).  
   Trial Apikey: Call me via telegram.  
-  
-  
-   
-](https://rapidapi.com/mrx888000888/api/api-checker-developer)

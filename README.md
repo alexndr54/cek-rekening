@@ -2,6 +2,12 @@
 
 API Cek Rekening &amp; E-Wallet Indonesia (Dana,Ovo,Gopay,Sopepay,BCA,BRI,all bank)
 
+## Install
+
+`composer require apidev/cekrekeningewallet`  
+ or for update  
+`composer update`
+
 ## Bagaimana cara menggunakannya?
 
 1. Get List Bank.

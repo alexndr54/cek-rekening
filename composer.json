@@ -1,6 +1,6 @@
 {
     "name": "apidev/cekrekeningewallet",
-    "description": "Deskripsi singkat tentang paket Anda.",
+    "description": "Library PHP untuk validasi nomor rekening dan nomor ewallet.",
     "type": "library",
     "require": {
         "php": ">=8.0"

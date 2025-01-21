@@ -86,6 +86,9 @@ if (isset($_GET['action'])) {
 ?>
 ```
 
+- getBankList `https://yourdomain.tld/?action=getBankList`
+- getAccount `https://yourdomain.tld/?action=getAccount&kode_bank=270&nomor=rekening=748xxxxxxx` (note: 270 is BCA,and 748xxxxxxx is nomor rekening)
+
 ## Api documentation.
 
 Website: [https://apidev.biz.id/](https://apidev.biz.id/).  

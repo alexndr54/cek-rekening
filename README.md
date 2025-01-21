@@ -11,6 +11,8 @@ API Cek Rekening &amp; E-Wallet Indonesia (Dana,Ovo,Gopay,Sopepay,BCA,BRI,all ba
    //require "apidev.php";
    //require "vendor/autoload.php";
 
+   use apidev\cekrekeningewallet\Apidev;
+
    $Your_Apikey = ""; // Your API Key
    $Apidev = new Apidev($Your_Apikey);
 
@@ -29,6 +31,8 @@ API Cek Rekening &amp; E-Wallet Indonesia (Dana,Ovo,Gopay,Sopepay,BCA,BRI,all ba
     <?php
      //require "apidev.php";
      //require "vendor/autoload.php";
+
+     use apidev\cekrekeningewallet\Apidev;
 
     $Your_Apikey = ""; // Your API Key
     $Apidev = new Apidev($Your_Apikey);

@@ -1,4 +1,7 @@
 <?php
+
+namespace apidev\cekrekeningewallet;
+
 class Apidev
 {
     private $Apikey;
